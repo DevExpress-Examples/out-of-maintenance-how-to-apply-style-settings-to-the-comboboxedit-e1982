@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/ComboBoxEdit_ApplyingStyleSettings/Window1.xaml) (VB: [Window1.xaml](./VB/ComboBoxEdit_ApplyingStyleSettings/Window1.xaml))
+<!-- default file list end -->
 # How to Apply Style Settings to the ComboBoxEdit
 
 
